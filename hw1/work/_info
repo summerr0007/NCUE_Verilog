@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Verilog/add_4_stud
+vsort2
+Z0 !s110 1603853166
+!i10b 1
+!s100 BC8jXiBobIPN?MgSSYY@L0
+I1CkhzMG4J:G_j`HVl>YTJ3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Verilog/hw1
+w1603853163
+8D:\Verilog\hw1\sort2.v
+FD:\Verilog\hw1\sort2.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1603853166.000000
+!s107 D:\Verilog\hw1\sort2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Verilog\hw1\sort2.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vsort4
+R0
+!i10b 1
+!s100 RCFS6<Pc51Y<92EnDQ_4]0
+IH:>YZ_e@_9bnH77EnSjLj1
+R1
+R2
+w1603849461
+8D:/Verilog/hw1/sort4.v
+FD:/Verilog/hw1/sort4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Verilog/hw1/sort4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Verilog/hw1/sort4.v|
+!s101 -O0
+!i113 1
+R5
+vsort4_tb
+R0
+!i10b 1
+!s100 ?Y:0CnU1GGaFef1z8kJV13
+IjOXeO=6B9W<Hj1OWU<kRV2
+R1
+R2
+w1603849685
+8D:\Verilog\hw1\sort4_tb.v
+FD:\Verilog\hw1\sort4_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:\Verilog\hw1\sort4_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Verilog\hw1\sort4_tb.v|
+!s101 -O0
+!i113 1
+R5
+vsort8
+R0
+!i10b 1
+!s100 6OADB=m7K=DJjzF6zSiC43
+IB8C<K3F20_WEZIJ:^K;`42
+R1
+R2
+w1603852666
+8C:/Users/AAA/Downloads/sort8.v
+FC:/Users/AAA/Downloads/sort8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/AAA/Downloads/sort8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/AAA/Downloads/sort8.v|
+!s101 -O0
+!i113 1
+R5
+vsort8_tb
+R0
+!i10b 1
+!s100 iVXHT?@H6=?[oE8Qb_MAa0
+I;N<PUEQP1@L?;JmG00M9h0
+R1
+R2
+w1603852944
+8C:\Users\AAA\Downloads\sort8_tb.v
+FC:\Users\AAA\Downloads\sort8_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\AAA\Downloads\sort8_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\AAA\Downloads\sort8_tb.v|
+!s101 -O0
+!i113 1
+R5

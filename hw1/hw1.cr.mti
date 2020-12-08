@@ -1,0 +1,36 @@
+D:/Verilog/hw1/sort4_tb.v {1 {vlog -work work -stats=none {D:\Verilog\hw1\sort4_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort4_tb
+
+Top level modules:
+	sort4_tb
+
+} {} {}} D:/Verilog/hw1/sort2.v {1 {vlog -work work -stats=none {D:\Verilog\hw1\sort2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort2
+
+Top level modules:
+	sort2
+
+} {} {}} C:/Users/AAA/Downloads/sort8.v {1 {vlog -work work -stats=none C:/Users/AAA/Downloads/sort8.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort8
+
+Top level modules:
+	sort8
+
+} {} {}} C:/Users/AAA/Downloads/sort8_tb.v {1 {vlog -work work -stats=none {C:\Users\AAA\Downloads\sort8_tb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort8_tb
+
+Top level modules:
+	sort8_tb
+
+} {} {}} D:/Verilog/hw1/sort4.v {1 {vlog -work work -stats=none D:/Verilog/hw1/sort4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort4
+
+Top level modules:
+	sort4
+
+} {} {}}

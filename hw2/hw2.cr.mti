@@ -1,0 +1,10 @@
+D:/Verilog/hw2/alu_tb.v {2 {vlog -work work -stats=none D:/Verilog/hw2/alu_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_tb
+** Warning: D:/Verilog/hw2/alu_tb.v(6): (vlog-2643) Unterminated string literal continues onto next line.
+
+
+Top level modules:
+	alu_tb
+
+} {} {}}
