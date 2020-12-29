@@ -12,27 +12,6 @@ Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 
 Top level modules:
 	sort8_pipe
 
-} {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort4_pipe.v {1 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort4_pipe.v
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module sort4_pipe
-
-Top level modules:
-	sort4_pipe
-
-} {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb.v {1 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb.v
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module sort8_pipe_tb
-
-Top level modules:
-	sort8_pipe_tb
-
-} {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort4_pipe_tb.v {1 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort4_pipe_tb.v
-Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
--- Compiling module sort4_pipe_tb
-
-Top level modules:
-	sort4_pipe_tb
-
 } {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort2.v {2 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort2.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module sort2
@@ -41,5 +20,33 @@ Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 
 
 Top level modules:
 	sort2
+
+} {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort4_pipe_tb.v {1 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort4_pipe_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort4_pipe_tb
+
+Top level modules:
+	sort4_pipe_tb
+
+} {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb.v {1 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort8_pipe_tb
+
+Top level modules:
+	sort8_pipe_tb
+
+} {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_2.v {1 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort8_pipe_2
+
+Top level modules:
+	sort8_pipe_2
+
+} {} {}} C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb_2.v {1 {vlog -work work -stats=none C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb_2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sort8_pipe_tb_2
+
+Top level modules:
+	sort8_pipe_tb_2
 
 } {} {}}

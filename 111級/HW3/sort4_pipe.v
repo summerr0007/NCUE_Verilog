@@ -1,5 +1,5 @@
 module sort4_pipe(clk, rst, x0, x1, x2, x3, y0, y1, y2, y3);
-	input clk, rst;
+   input clk, rst;
     input [7:0] x0, x1, x2, x3;
     output [7:0] y0, y1, y2, y3;
 

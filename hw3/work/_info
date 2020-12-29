@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Modeltech_pe_edu_10.4a/examples
 vdff
-Z0 !s110 1607445204
+Z0 !s110 1607449913
 !i10b 1
 !s100 _6H[a`MAD_3X@90U:NRkZ1
 Iz;ma];lZI`bYmRcb^Q@]U0
@@ -23,7 +23,7 @@ Z3 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z4 !s108 1607445204.000000
+Z4 !s108 1607449913.000000
 !s107 C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/dff.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/dff.v|
 !s101 -O0
@@ -72,7 +72,7 @@ R4
 !i113 1
 R5
 vsort4_pipe_tb
-Z6 !s110 1607445205
+R0
 !i10b 1
 !s100 ;Oa_E102koc1cJl4>Hd8H0
 IK4[LBTM]TZ@OT]=5i:0UG3
@@ -93,7 +93,7 @@ R4
 !i113 1
 R5
 vsort8_pipe
-R6
+R0
 !i10b 1
 !s100 >Kf?b7QNc[a<b87O<gSK=3
 IHOI@0L16D?9NL=GXU`lD22
@@ -107,14 +107,35 @@ R3
 r1
 !s85 0
 31
-Z7 !s108 1607445205.000000
+R4
 !s107 C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe.v|
 !s101 -O0
 !i113 1
 R5
+vsort8_pipe_2
+R0
+!i10b 1
+!s100 KmB<?Wah:;W^cme7c<ZED0
+I=SlFKcXPUV9e<AiWzG7g12
+R1
+R2
+w1607449880
+8C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_2.v
+FC:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_2.v|
+!s101 -O0
+!i113 1
+R5
 vsort8_pipe_tb
-R6
+R0
 !i10b 1
 !s100 GmA4G1BJoW[OTBVgaT5cL0
 IDIdlFMbAj66WSQlGTRca_2
@@ -128,9 +149,30 @@ R3
 r1
 !s85 0
 31
-R7
+R4
 !s107 C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb.v|
+!s101 -O0
+!i113 1
+R5
+vsort8_pipe_tb_2
+R0
+!i10b 1
+!s100 STbGdV=kDBU:A_RRc0njD1
+IaAJ9]GU0QD>3Y]>2AmFho0
+R1
+R2
+w1607449897
+8C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb_2.v
+FC:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw3/sort8_pipe_tb_2.v|
 !s101 -O0
 !i113 1
 R5
