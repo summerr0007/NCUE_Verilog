@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vsd_mealy
+Z0 !s110 1609255149
+!i10b 1
+!s100 dSYf8iY:ZzSAcbcQQWiC[0
+IPL8jVYMFR9=9iNDmeN=4i3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/AAA/Documents/GitHub/NCUE_Verilog/hw4
+w1609255112
+8C:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy.v
+FC:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy.v
+L0 6
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1609255149.000000
+!s107 C:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vsd_mealy_tb
+R0
+!i10b 1
+!s100 Yek3>8^ga51@A8K^7zglO1
+IIodoW^ie<>=16FRkK=]:l2
+R1
+R2
+w1609255117
+8C:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy_tb.v
+FC:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\AAA\Documents\GitHub\NCUE_Verilog\hw4\sd_mealy_tb.v|
+!s101 -O0
+!i113 1
+R5

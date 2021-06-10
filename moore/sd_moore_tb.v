@@ -1,13 +1,13 @@
 `timescale 1ns/100ps
  
-module sd_mealy_tb;
+module sd_moore_tb;
 	parameter Half_cycle = 10;
       
 	reg clk_sim, rst_sim, seq_in_sim;
 	wire det_out_sim;
-	wire [1:0] state_out_sim;
+	wire [2:0] state_out_sim;
   
-	sd_mealy m0(
+	sd_moore m0(
 	.clk(clk_sim), 
 	.rst(rst_sim), 
 	.seq_in(seq_in_sim), 
@@ -25,7 +25,7 @@ module sd_mealy_tb;
 	end
 
 	initial begin
-		#5 seq_in_sim = 1;		
+		#5 seq_in_sim = 1;
 		#20 seq_in_sim = 1;
 		#20 seq_in_sim = 1;
 		#20 seq_in_sim = 1;
@@ -56,12 +56,11 @@ module sd_mealy_tb;
 		#20 seq_in_sim = 1;		
 		#20 seq_in_sim = 1;
 		#20 seq_in_sim = 0;
-		
 		#60 $finish;
 	end
 	
 	initial begin
 	   $monitor("state = s%d, seq_in = %b, det_out = %b", state_out_sim, seq_in_sim, det_out_sim);
 	end
-	
+
 endmodule
